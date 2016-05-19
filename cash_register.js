@@ -15,3 +15,4 @@ $("#addItem").click(function() {
 	// Display the total
 	$("#cost").html(total.toFixed(2));
 });
+//
